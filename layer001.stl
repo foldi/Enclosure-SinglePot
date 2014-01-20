@@ -1,0 +1,198 @@
+solid protoboard003
+facet normal -1.24357541467251e-19 -1.0 -5.1621114458288e-19
+outer loop
+vertex 33.1 0.0 -1.5
+vertex 24.3 -1.04449565725807e-17 1.5
+vertex 0.0 0.0 -1.5
+endloop
+endfacet
+facet normal -1.24357541467251e-19 -1.0 -5.1621114458288e-19
+outer loop
+vertex 24.3 -1.04449565725807e-17 1.5
+vertex 33.1 0.0 -1.5
+vertex 33.1 0.0 4.55
+endloop
+endfacet
+facet normal -1.24357541467251e-19 -1.0 -5.1621114458288e-19
+outer loop
+vertex 24.3 -1.04449565725807e-17 1.5
+vertex 33.1 0.0 4.55
+vertex 24.3 -1.04449565725807e-17 4.55
+endloop
+endfacet
+facet normal -1.24357541467251e-19 -1.0 -5.1621114458288e-19
+outer loop
+vertex 0.0 0.0 -1.5
+vertex 8.8 0.0 1.5
+vertex -2.11497486191092e-15 0.0 4.55
+endloop
+endfacet
+facet normal -1.24357541467251e-19 -1.0 -5.1621114458288e-19
+outer loop
+vertex 8.8 0.0 1.5
+vertex 0.0 0.0 -1.5
+vertex 24.3 -1.04449565725807e-17 1.5
+endloop
+endfacet
+facet normal -1.24357541467251e-19 -1.0 -5.1621114458288e-19
+outer loop
+vertex -2.11497486191092e-15 0.0 4.55
+vertex 8.8 0.0 1.5
+vertex 8.8 0.0 4.55
+endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+outer loop
+vertex 0.0 53.5 -1.5
+vertex 8.8 53.5 1.5
+vertex 33.1 53.5 -1.5
+endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+outer loop
+vertex 8.8 53.5 1.5
+vertex 0.0 53.5 -1.5
+vertex -2.11497486191092e-15 53.5 4.55
+endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+outer loop
+vertex 33.1 53.5 -1.5
+vertex 8.8 53.5 1.5
+vertex 24.3 53.5 1.5
+endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+outer loop
+vertex 8.8 53.5 1.5
+vertex -2.11497486191092e-15 53.5 4.55
+vertex 8.8 53.5 4.55
+endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+outer loop
+vertex 24.3 53.5 1.5
+vertex 33.1 53.5 4.55
+vertex 33.1 53.5 -1.5
+endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+outer loop
+vertex 33.1 53.5 4.55
+vertex 24.3 53.5 1.5
+vertex 24.3 53.5 4.55
+endloop
+endfacet
+facet normal -1.0 0.0 0.0
+outer loop
+vertex 24.3 53.5 4.55
+vertex 24.3 -1.04449565725807e-17 1.5
+vertex 24.3 -1.04449565725807e-17 4.55
+endloop
+endfacet
+facet normal -1.0 0.0 0.0
+outer loop
+vertex 24.3 -1.04449565725807e-17 1.5
+vertex 24.3 53.5 4.55
+vertex 24.3 53.5 1.5
+endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+outer loop
+vertex 8.8 53.5 1.5
+vertex 8.8 0.0 4.55
+vertex 8.8 0.0 1.5
+endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+outer loop
+vertex 8.8 0.0 4.55
+vertex 8.8 53.5 1.5
+vertex 8.8 53.5 4.55
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 8.8 0.0 4.55
+vertex -2.11497486191092e-15 53.5 4.55
+vertex -2.11497486191092e-15 0.0 4.55
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex -2.11497486191092e-15 53.5 4.55
+vertex 8.8 0.0 4.55
+vertex 8.8 53.5 4.55
+endloop
+endfacet
+facet normal 7.58055506061263e-18 4.53203388909314e-19 1.0
+outer loop
+vertex 24.3 -1.04449565725807e-17 1.5
+vertex 8.8 53.5 1.5
+vertex 8.8 0.0 1.5
+endloop
+endfacet
+facet normal 7.58055506061263e-18 4.53203388909314e-19 1.0
+outer loop
+vertex 8.8 53.5 1.5
+vertex 24.3 -1.04449565725807e-17 1.5
+vertex 24.3 53.5 1.5
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 33.1 0.0 4.55
+vertex 24.3 53.5 4.55
+vertex 24.3 -1.04449565725807e-17 4.55
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 24.3 53.5 4.55
+vertex 33.1 0.0 4.55
+vertex 33.1 53.5 4.55
+endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex 33.1 53.5 -1.5
+vertex 0.0 0.0 -1.5
+vertex 0.0 53.5 -1.5
+endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex 0.0 0.0 -1.5
+vertex 33.1 53.5 -1.5
+vertex 33.1 0.0 -1.5
+endloop
+endfacet
+facet normal -1.0 3.2463383359004e-49 -3.50537678597385e-16
+outer loop
+vertex -2.11497486191092e-15 53.5 4.55
+vertex 0.0 0.0 -1.5
+vertex -2.11497486191092e-15 0.0 4.55
+endloop
+endfacet
+facet normal -1.0 3.2463383359004e-49 -3.50537678597385e-16
+outer loop
+vertex 0.0 0.0 -1.5
+vertex -2.11497486191092e-15 53.5 4.55
+vertex 0.0 53.5 -1.5
+endloop
+endfacet
+facet normal 1.0 -3.46276089162709e-48 3.73906857170543e-15
+outer loop
+vertex 33.1 53.5 -1.5
+vertex 33.1 0.0 4.55
+vertex 33.1 0.0 -1.5
+endloop
+endfacet
+facet normal 1.0 -3.46276089162709e-48 3.73906857170543e-15
+outer loop
+vertex 33.1 0.0 4.55
+vertex 33.1 53.5 -1.5
+vertex 33.1 53.5 4.55
+endloop
+endfacet
+endsolid protoboard003
