@@ -43,7 +43,7 @@ PI=3.141592;
  *                  (quite high res) to minimize overhang issues
  *
  */
-hex_nut(8,4,2,55,4,0.5);
+//hex_nut(8,4,2,55,4.4,0.5);
 
 
 /* Example 03.
@@ -64,7 +64,7 @@ hex_nut(8,4,2,55,4,0.5);
  *                  value - The given value
  *
  */
-//hex_screw(4,2,55,15,0.5,2,8,3.9,0,0);
+hex_screw(4,2,55,24,0.5,2,8,4,0,0);
 
 
 /* Example 04.
