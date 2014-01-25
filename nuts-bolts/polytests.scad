@@ -64,7 +64,7 @@ PI=3.141592;
  *                  value - The given value
  *
  */
-hex_screw(4,2,55,24,0.5,2,8,4,0,0);
+hex_screw(3.5,2,55,8,0.5,2,8,4,12,3.5);
 
 
 /* Example 04.
